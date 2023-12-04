@@ -1,0 +1,15 @@
+c:\users\mell\documents\visual studio 2015\Projects\test\test\bin\Debug\test.exe.config
+c:\users\mell\documents\visual studio 2015\Projects\test\test\bin\Debug\test.exe
+c:\users\mell\documents\visual studio 2015\Projects\test\test\bin\Debug\test.pdb
+c:\users\mell\documents\visual studio 2015\Projects\test\test\bin\Debug\test.xml
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.vbprojResolveAssemblyReference.cache
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.Form1.resources
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.Resources.resources
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.vbproj.GenerateResource.Cache
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.exe
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.xml
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.pdb
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.Form2.resources
+c:\users\mell\documents\visual studio 2015\Projects\test\test\obj\Debug\test.login.resources
+C:\Users\Mell\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.home.resources
+C:\Users\Mell\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.sport.resources
